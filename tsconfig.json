@@ -1,0 +1,1 @@
+{\n  "compilerOptions": {\n    "target": "esnext",\n    "module": "commonjs",\n    "strict": true,\n    "esModuleInterop": true,\n    "skipLibCheck": true,\n    "forceConsistentCasingInFileNames": true,\n    "jsx": "react-jsx"\n  },\n  "include": [\n    "src"\n  ]\n}

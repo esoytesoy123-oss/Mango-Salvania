@@ -1,0 +1,1 @@
+# React Native\nnode_modules/\n.expo/\n# Build artifacts\nbuilt/\n# Coverage\ncoverage/\n# Logs\n*.log\n# Temp files\ntemp/\n# IDE files\n.vscode/\n.idea/\n.DS_Store\n# MacOS files\n.AppleDouble\n.LSOverride

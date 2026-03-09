@@ -1,0 +1,1 @@
+module.exports = {\n  presets: [\n    'babel-preset-expo'\n  ]\n};

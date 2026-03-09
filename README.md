@@ -1,1 +1,1 @@
-# Mango-Salvania
+# Mango-Salvania\n\n## Installation Instructions\n1. Clone the repository: `git clone https://github.com/esoytesoy123-oss/Mango-Salvania.git`\n2. Navigate to the project directory: `cd Mango-Salvania`\n3. Install dependencies: `npm install` or `yarn`\n4. Run the project: `npm start` or `yarn start`\n\n## Usage\nAfter starting the project, you can use Expo Go to scan the QR code and run the app on your mobile device.\n\n## Contributing\nFeel free to submit issues or pull requests for any improvements.
