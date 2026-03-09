@@ -1,0 +1,7 @@
+{
+  "name": "mango-salvania",
+  "version": "1.0.0",
+  "dependencies": {
+    "example-dependency": "^1.0.0"
+  }
+}
